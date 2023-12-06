@@ -1,0 +1,11 @@
+l1=[10,20.5,"Pavan",10+20j,[],(),{10},{}]
+print(l1)
+print(type(l1))
+print(type(10))
+print(type(20.5))
+print(type("Pavan"))
+print(type(10+20j))
+print(type([]))
+print(type(()))
+print(type({10}))
+print(type({}))
